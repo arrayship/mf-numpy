@@ -13,7 +13,7 @@ Tested on MovieLens 20M dataset.
 ### Command
 
 최초 실행 시 --download True로 raw data 저장. \
-각 dataset (1, 2) 최초 실행시 --process True로 preprocess 및 결과 저장.
+최초 실행 시 --process True로 preprocess 및 결과 저장.
 
 ~~~shell
 > python main.py --download True --process True
