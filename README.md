@@ -36,7 +36,6 @@ Tested on MovieLens 20M dataset.
 ~~~
 ├── main.py
 ├── README.md
-├── README.html
 ├── modules
 │   ├── ds_handler.py     <- dataset handling functions
 │   ├── metrics.py        <- evaluation metric functions
