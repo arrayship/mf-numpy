@@ -196,8 +196,6 @@ $(b, L) \leftarrow (b, L) - \gamma (grad(b), grad(L))$
 
 ## Results
 
-[results.csv](results.csv)
-
 ~~~shell
 > python main.py --download True --process True --f_dim 32 --pc 1.0 --lr 0.003 --max_epoch 10
 Epoch:   1, Train RMSE:  0.933, Val RMSE:  1.001, Elapsed:   2.6min
